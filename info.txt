@@ -1,0 +1,15 @@
+"AddonInfo"
+{
+	"name"		"Andy's Simple Server Mod"
+	"version"	"3.0"
+	"up_date"	"July 2008"
+	"author_name"	"Andy Vincent"
+	"author_email"	"andy.i.vincent@gmail.com"
+	"author_url"	"http://www.andyvincent.co.uk/"
+	
+	"info"		"Yeah this is basically a simple admin mod"
+	
+	"GCFRequires"
+	{
+	}
+}
